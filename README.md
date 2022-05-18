@@ -9,3 +9,6 @@ Let's discover the factor effect Bangkok condo price using Exploratory Data Anal
 <br> I analyzed data collected from source as below:
 - Web Scraping from https://www.baania.com/
 - [Thailand public train (Bangkok Area)](https://www.kaggle.com/datasets/gusbell/thailand-public-train-data-bangkok-area) from Kaggle
+
+You can also visit my Tableau Public Viz:
+[BANGKOK CONDO PRICES 2022](https://public.tableau.com/app/profile/setthavuth.tsoi/viz/BKKCONDOPRICES2022/BKKCONDOPRICES2022)
